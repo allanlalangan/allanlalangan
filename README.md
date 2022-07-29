@@ -36,5 +36,3 @@ I've been coding for 5 years and currently transitioning careers from the servic
 
 <a href="http://www.github.com/allanlalangan"><img src="https://github-readme-stats.vercel.app/api?username=allanlalangan&show_icons=true&hide=stars,prs,issues,contribs&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="allanlalangan's GitHub stats" /></a>
 
-<a href="http://www.github.com/allanlalangan"><img src="https://activity-graph.herokuapp.com/graph?username=allanlalangan&bg_color=27272a&color=ffffff&line=14b8a6&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-

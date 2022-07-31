@@ -8,7 +8,7 @@ I've been coding for 5 years and currently transitioning careers from the servic
 
 *   🌍  I'm based in Portland, OR
 *   ✉️  You can contact me at [allanlalangan@gmail.com](mailto:allanlalangan@gmail.com)
-*   🧠  I'm learning Typescript, NextJS, GraphQL, Firebase
+*   🧠  I'm learning TailwindCSS, Firebase, NextJS
 
 ### Skills
 <p align="left">

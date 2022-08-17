@@ -4,7 +4,7 @@ Hi 👋 My name is Allan Lalangan
 Web Developer
 -------------
 
-I've been coding for 5 years and currently transitioning careers from the service industry. I am a Web Developer specializing in front end technologies such as Javascript, React and state management with Redux + RTK
+I've been coding for 3 years and currently transitioning careers from the service industry. I am a Web Developer specializing in front end technologies such as Javascript, React and state management with Redux + RTK
 
 *   🌍  I'm based in Portland, OR
 *   ✉️  You can contact me at [allanlalangan@gmail.com](mailto:allanlalangan@gmail.com)

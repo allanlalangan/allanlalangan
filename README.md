@@ -19,6 +19,7 @@ I am a Web Developer specializing in front end technologies.
                                 
 
 <p>My primary skills include:</p>
+
 *   Semantic html
 *   Javascript / ES6
 *   React and state management with Redux + RTK

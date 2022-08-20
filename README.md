@@ -1,8 +1,5 @@
 Hi 👋 My name is Allan Lalangan
 ===============================
-
-Web Developer
--------------
 I am a Web Developer specializing in front end technologies.
 
 *   🌍  I'm based in Portland, OR

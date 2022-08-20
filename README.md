@@ -3,7 +3,7 @@ Hi 👋 My name is Allan Lalangan
 
 Web Developer
 -------------
-I am a Web Developer specializing in front end technologies such as Javascript, React and state management with Redux + RTK
+I am a Web Developer specializing in front end technologies.
 
 *   🌍  I'm based in Portland, OR
 *   ✉️  You can contact me at [allanlalangan@gmail.com](mailto:allanlalangan@gmail.com)

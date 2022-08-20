@@ -1,4 +1,4 @@
-Hi 👋 My name is Allan Lalangan
+Hi 👋 I'm Allan :)
 ===============================
 I am a Web Developer specializing in front end technologies.
 

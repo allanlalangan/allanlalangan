@@ -25,9 +25,9 @@ I am a Web Developer specializing in front end technologies.
 
 *   Semantic html
 *   Javascript / ES6
-*   React and state management with Redux + RTK
+*   React and state management with Redux + Toolkit
 *   CSS, SASS, Tailwind CSS, Material UI
-*   Familiar with MERN stack, JSON Web Tokens
+*   Build REST APIs with Node.js, Express, MongoDB
 
 ## GitHub Stats
 

@@ -1,10 +1,10 @@
 Hello 👋 I'm Allan :)
 ===============================
-I am a Web Developer specializing in front end technologies.
+I am a Software Developer specializing in front end web technologies.
 
 *   🌍  I'm based in Portland, OR
 *   ✉️  You can contact me at [allanlalangan@gmail.com](mailto:allanlalangan@gmail.com)
-*   🧠  I'm currently learning NextJS, MongoDB, Sanity.io
+*   🧠  I'm currently learning NextJS, Mongoose, Sanity.io
 
 ## Skills
 <p align="left">
@@ -25,9 +25,10 @@ I am a Web Developer specializing in front end technologies.
 
 *   Semantic html
 *   Javascript / ES6
-*   React and state management with Redux + Toolkit
 *   CSS, SASS, Tailwind CSS, Material UI
-*   Build REST APIs with Node.js, Express, MongoDB
+*   React
+*   State management with Redux + Toolkit
+*   Building REST APIs with Node.js, Express, MongoDB
 
 ## GitHub Stats
 
@@ -37,6 +38,6 @@ I am a Web Developer specializing in front end technologies.
                     
 
 ## Links
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.allanladev.com/)
+[![portfolio](https://img.shields.io/badge/portfolio-4C4CE6?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.allanladev.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-lalangan-16a86a243/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/allanladev)

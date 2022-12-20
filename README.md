@@ -6,7 +6,7 @@ Hello 👋 I'm Allan :)
 
 I am a Software Developer specializing in front end web technologies.
 
-*   🌍  I'm based in Portland, OR
+*   🌍  I'm based in Portland, OR, United States
 *   ✉️  You can contact me at [allanlalangan@gmail.com](mailto:allanlalangan@gmail.com)
 *   🧠  I'm currently learning NextJS and TypeScript
 

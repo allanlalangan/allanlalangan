@@ -2,7 +2,7 @@ Hello 👋 I'm Allan :)
 ===============================
 [![portfolio](https://img.shields.io/badge/portfolio-4C4CE6?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.allanladev.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-lalangan-16a86a243/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/allanladev)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/allanla_dev)
 
 I am a Software Developer specializing in front end web technologies.
 
